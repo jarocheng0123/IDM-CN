@@ -12,6 +12,7 @@
 - 编码      GB2312
 - 行尾      CRLF
 - 文件名    IDM激活汉化版.cmd
+- **如果下载的cmd文件无法运行，请使用Visual Studio Code 或 Notepad++ 修改文件编码和行尾**
 
 ## 详细信息
 - 此脚本通过注册表锁定方法激活Internet Download Manager（IDM）。
