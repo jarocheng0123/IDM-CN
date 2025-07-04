@@ -40,3 +40,11 @@
 ![IDM 激活脚本](https://raw.githubusercontent.com/jarocheng0123/IDM-CN/refs/heads/main/png/1.png)
 ![激活选项](https://raw.githubusercontent.com/jarocheng0123/IDM-CN/refs/heads/main/png/2.png)
 ![激活完成](https://raw.githubusercontent.com/jarocheng0123/IDM-CN/refs/heads/main/png/3.png)
+
+## IDM 支持文件类型
+![IDM选项](https://raw.githubusercontent.com/jarocheng0123/IDM-CN/refs/heads/main/png/20250704144812.png)
+![文件类型](https://raw.githubusercontent.com/jarocheng0123/IDM-CN/refs/heads/main/png/20250704144823.png)
+
+```bash
+3GP 7Z AAC ACE AIF APK ARJ ASF AVI BIN BZ2 EXE GZ GZIP IMG ISO LZH M4A M4V MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU OGG OGV PDF PLJ PPS PPT QT R0* R1* RA RAR RM RMVB SEA SIT SITX TAR TIF TIFF WAV WMA WMV Z ZIP 3GP 7Z AAC ACE AI AIF ALZ APK APP ARC ARJ ASF AVI BH BIN BR BUNDLE BZ BZ2 CDA CSV DIF DLL DMG DOC DOCX EGG EPS EXE FLV GZ GZIP IMG IPA ISO ISZ JAR KEXT LHA LZ LZH LZMA M4A M4V MDB MID MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU MUI OGG OGV PDF PKG PPT PPTX PSD PST PUB QT R0* R1* RA RAR RM RMVB RTF SEA SIT SITX SLDM SLDX TAR TBZ TBZ2 TGZ TIF TIFF TLZ TXZ UDF VOB VSD VSDM VSDX VSS VSSM VST VSTM VSTX WAR WAV WBK WIM WKS WMA WMD WMS WMV WMZ WP5 WPD WPS XLS XLSX XPS XZ Z ZIP ZIPX ZPAQ ZSTD
+```
